@@ -1,1 +1,1 @@
-# localhost
+# Kwik-E-Server
